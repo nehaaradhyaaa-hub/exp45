@@ -1,2 +1,2 @@
-this si exp 5
+this is exp 5
 welcome to git
